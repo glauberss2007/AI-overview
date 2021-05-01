@@ -2,6 +2,7 @@
 
 ## Introduction
 1. Overview
+  - Lanhuage and tools: Python and Orange
 2. More on Artificial Intelligence
 3. Terminology
 
