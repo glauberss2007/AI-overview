@@ -1,24 +1,24 @@
 # AI-ML
-## Introdução
-1. Boas-vindas e conteúdo do curso
-2. Mais sobre Inteligência Artificial
-3. Recursos para download
-4. Terminologia
 
-## Algoritmos de busca
-## Algoritmos de otimização
-## Lógica difusa (fuzzy)
+## Introduction
+1. Overview
+2. More on Artificial Intelligence
+3. Terminology
+
+## Search algorithms
+## Optimization algorithms
+## Fuzzy logic
 ## Machine learning
-## Classificação
-## Regressão
-## Associação
-## Tópicos complementares
-## Visualização e exploração de dados
-## Aprendizagem por reforço
-## Redes neurais artificias e deep learning
-## Processamento de linguagem natural
-## Visão computacional 
-## Sistemas multiagente
-## Outras áreas da Inteligência Artificial 
-## Considerações finais 
-## Programação básica em Python
+## Classification
+## Regression
+## Association
+## Complementary topics
+## Data visualization and exploration
+## Reinforcement learning
+## Artificial neural networks and deep learning
+## Natural language processing
+## Computer vision
+## Multi-agent systems
+## Other areas of Artificial Intelligence
+## Final considerations
+## Basic Python Programming
