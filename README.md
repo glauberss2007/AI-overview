@@ -17,6 +17,8 @@
   - Cost Go from Arad to Bucharest based on the distance value of cities in a straight line.
   
 4. Ordered vectors
+    Data structure vizualization: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
 5. Ordered vector - theory
 6. Ordered vector - implementation
 7. Creating the city map
