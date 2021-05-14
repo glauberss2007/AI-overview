@@ -47,33 +47,33 @@ Each type of problem requires different techniques for its solution, therefore, 
     - Data structure vizualization: 
     > https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 5. Ordered vector - theory
-6. Ordered vector - [implementation](ordered-vector/orderedVector.py)
-7. Creating the city map - [implementation](city-map-greedy/city_map_graph.py) 
+6. Ordered vector - [implementation](search_algotithms/ordered-vector/orderedVector.py)
+7. Creating the city map - [implementation](search_algotithms/city-map-greedy/city_map_graph.py) 
 8. Greedy search - theory
-9. Gluttony search - [implementation](city-map-greedy/greedy_search.py)
+9. Gluttony search - [implementation](search_algotithms/city-map-greedy/greedy_search.py)
 10. Greedy search - debugging step by step
 11. Quest A * (The Star) - theory
-12. Search A * (A Estrela) - [implementation](city-map-astrar/astar_search.py)
+12. Search A * (A Estrela) - [implementation](search_algotithms/city-map-astar/astar_search.py)
 13. Search A * (The Star) - debug step by step
 14. PLUS
     TODO: brazil graph image
     TODO: Heuristic table
-15. Brazillian cities graph - [implementation](city-map-brazil)
+15. Brazillian cities graph - [implementation](search_algotithms/city-map-brazil)
 
 ## Optimization algorithms
 1. Introduction to optimization algorithms
 2. Flight case study
-3. Representation of the problem - implementation
-3. Printing the solution - implementation
-4. Cost function (fitness) - implementation
+3. Representation of the problem - [implementation](optimization-algorithms/fly-travel-problem/problem_representation.py) 
+3. Printing the solution - [implementation](optimization-algorithms/fly-travel-problem/problem_representation.py)
+4. Cost function (fitness) - [implementation](optimization-algorithms/fly-travel-problem/fitness_function.py)
 5. Hill climb - theory
-6. Hill climb - implementation
+6. Hill climb - [implementation](optimization-algorithms/fly-travel-problem/hill_climb.py)
 7. Simulated annealing - theory
-8. Simulated annealing - implementation
+8. Simulated annealing - [implementation](optimization-algorithms/fly-travel-problem/simulated_annealing.py)
 9. Genetic algorithm - theory
-10. Genetic algorithm - implementation
-11. PLUS
-12. Other techniques can be founded TODO: Algorithms implementations examples 
+10. Genetic algorithm - [implementation](optimization-algorithms/fly-travel-problem/algoritmo_genetico.py)
+11. Product transport [implementation](optimization-algorithms/product-transport)
+ 
 
 ## Fuzzy logic
 ## Machine learning
