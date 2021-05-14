@@ -1,5 +1,29 @@
 # Artificial Intelligence
 ## Introduction
+Currently, Artificial Intelligence and Machine Learning (Machine Learning) are being considered the most relevant fields of work in Information Technology, being responsible for the use of intelligent algorithms for the construction of software and hardware that simulate human capacity. The Machine Learning job market in various parts of the world is on the rise and the trend is that this type of professional is increasingly in demand! Even some studies indicate that knowledge of this area will soon be a prerequisite for professionals in Information Technology!
+
+In this repository it is possible to find implementation projects for the following problems:
+- Search for routes with better routes on city maps (greedy search and A * search)
+- Choosing the cheapest air tickets, in a scenario of buying group tickets and maximizing profits when loading products - optimization algorithms: hill climb, simulated annealing (simulated tempering) and genetic algorithm
+- Predicting how much you would tip in a restaurant (fuzzy logic)
+- Classification using naïve bayes algorithms, decision tree, rules, k-NN, logistic regression and neural networks
+- House price forecast using linear regression
+- Grouping of bank data using the k-means algorithm
+- Generation of association rules with the a priori algorithm
+- Pre-processing, dimensionality reduction and outlier detection in databases
+- Stock price forecast with time series
+- Visualization and exploration of data in the COVID-19 disease database
+- Construction of an agent to control a taxi for passenger transport with reinforcement learning
+- Classification of images of cats and dogs with convolutional neural networks
+- Classification of images of Homer and Bart, of the Simpsons drawing also using convolutional neural networks
+- POS (part-of-speech), stemming, stemming, word cloud (wordcloud) and named entity extraction using natural language processing techniques
+- Creation of a classifier of feelings in Portuguese
+- Face detection and facial recognition in images
+- Video object tracking
+- Simulation of a multi-agent system for communication between agents using the FIPA-REQUEST protocol
+
+Each type of problem requires different techniques for its solution, therefore, knowing all the areas of AI you will know which techniques to use in the most varied types of scenarios!
+
 ### Overview
   - Required: 
     - Python
@@ -37,6 +61,20 @@
 15. Brazillian cities graph - [implementation](city-map-brazil)
 
 ## Optimization algorithms
+1. Introduction to optimization algorithms
+2. Flight case study
+3. Representation of the problem - implementation
+3. Printing the solution - implementation
+4. Cost function (fitness) - implementation
+5. Hill climb - theory
+6. Hill climb - implementation
+7. Simulated annealing - theory
+8. Simulated annealing - implementation
+9. Genetic algorithm - theory
+10. Genetic algorithm - implementation
+11. PLUS
+12. Other techniques can be founded TODO: Algorithms implementations examples 
+
 ## Fuzzy logic
 ## Machine learning
 ## Classification
@@ -52,3 +90,8 @@
 ## Other areas of Artificial Intelligence
 ## Final considerations
 ## Basic Python Programming
+
+## References
+>http://www.goal.ufop.br/
+> 
+>https://iaexpert.academy/
