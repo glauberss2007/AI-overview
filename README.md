@@ -1,29 +1,32 @@
-# AI-ML
-
+# Artificial Intelligence
 ## Introduction
-1. Overview
-  - Lanhuage and tools: Python and Orange
-2. More about Artificial Intelligence
-3. Terminology
-
+### Overview
+  - Required: 
+    - Python
+      > https://www.python.org/downloads/
+    - Orange
+    - numpy lib:
+            
+            sudo apt install python3-pip            
+            sudo pip3 install numpy
+            
 ## Search algorithms
 1. Introduction
 2. Search theory
-  - Go from Arad to Bucharest
-  - 8 puzzles
-  - hash
+    - Go from Arad to Bucharest
+    - Puzzles of 8
+    - Hash
 3. Heuristics
-  - Cost 8 puzzle can be balanced based on the sum of the distances of how close to each element it is.
-  - Cost Go from Arad to Bucharest based on the distance value of cities in a straight line.
-  
-4. Ordered vectors
-    Data structure vizualization: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-
+    - Cost of "8 puzzle" can be balanced based on the sum of the distances of how close to each element it is.
+    - Cost of "Arad to Bucharest" based on the distance value of cities in a straight line.
+ 4. Ordered vectors
+    - Data structure vizualization: 
+    > https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 5. Ordered vector - theory
-6. Ordered vector - implementation
-7. Creating the city map
+6. Ordered vector - [implementation](ordered-vector/orderedVector.py)
+7. Creating the city map - [implementation](city-map-greedy/city_map_graph.py) 
 8. Greedy search - theory
-9. Gluttony search - implementation
+9. Gluttony search - [implementation](city-map-greedy/greedy_search.py)
 10. Greedy search - debugging step by step
 11. Quest A * (The Star) - theory
 12. Search A * (A Estrela) - implementation
