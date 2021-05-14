@@ -29,10 +29,12 @@
 9. Gluttony search - [implementation](city-map-greedy/greedy_search.py)
 10. Greedy search - debugging step by step
 11. Quest A * (The Star) - theory
-12. Search A * (A Estrela) - implementation
+12. Search A * (A Estrela) - [implementation](city-map-astrar/astar_search.py)
 13. Search A * (The Star) - debug step by step
-14. EXERCISE
-15. Solution for exercise
+14. PLUS
+    TODO: brazil graph image
+    TODO: Heuristic table
+15. Brazillian cities graph - [implementation](city-map-brazil)
 
 ## Optimization algorithms
 ## Fuzzy logic
