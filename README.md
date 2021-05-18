@@ -81,12 +81,35 @@ Each type of problem requires different techniques for its solution, therefore, 
 3. [implementation](fuzzy-logic/restaurant_tip.py)
    - lib install
    
-            pip install scikit-fuzzy
+         pip install scikit-fuzzy
     
 ## Machine learning
 1. Introduction to Machine Learning and Data Science
 2. Orange installation using the [script](machine_learning/orange_installation_script)
-### Classification]
+    
+        pip install orange3
+    
+### Classification
+1. Example of a risk avaliation database history used for training:
+      ![image](https://user-images.githubusercontent.com/22028539/118693090-2028c700-b7e1-11eb-8449-a345da02e4a2.png)
+
+2. Example of a buy probability database history used for training:
+      ![image](https://user-images.githubusercontent.com/22028539/118693319-55cdb000-b7e1-11eb-9c23-b4ac14bbbbf9.png) 
+
+3. Example of an image classification:
+      ![image](https://user-images.githubusercontent.com/22028539/118693469-73027e80-b7e1-11eb-907c-41c91ec4715d.png) 
+
+4. Naive Bayes algorithyns that is based on a probability table:
+      ![image](https://user-images.githubusercontent.com/22028539/118693851-d5f41580-b7e1-11eb-9ee4-b0ecaa966632.png)
+
+5. Naive bayes with Orange
+   - 
+   - 
+   - 
+   - 
+   - 
+   - 
+
 ### Regression
 ### Association
 ### Complementary topics
