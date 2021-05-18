@@ -78,19 +78,20 @@ Each type of problem requires different techniques for its solution, therefore, 
 ## Fuzzy logic
 1. Introduction
 2. Theory
-3. Implementations
+3. [implementation](fuzzy-logic/restaurant_tip.py)
    - lib install
    
             pip install scikit-fuzzy
-
-
+    
 ## Machine learning
-## Classification
-## Regression
-## Association
-## Complementary topics
-## Data visualization and exploration
-## Reinforcement learning
+1. Introduction to Machine Learning and Data Science
+2. Orange installation using the [script](machine_learning/orange_installation_script)
+### Classification]
+### Regression
+### Association
+### Complementary topics
+### Data visualization and exploration
+### Reinforcement learning
 ## Artificial neural networks and deep learning
 ## Natural language processing
 ## Computer vision
