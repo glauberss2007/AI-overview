@@ -103,7 +103,7 @@ Each type of problem requires different techniques for its solution, therefore, 
       ![image](https://user-images.githubusercontent.com/22028539/118693851-d5f41580-b7e1-11eb-9ee4-b0ecaa966632.png)
 
 5. Naive bayes alg with Orange [zoo-naive-bayes](machine-learning/zoo_orange_naive_bayes.ows)
-   - Model created:
+   - naive bayes on orange:
         ![image](https://user-images.githubusercontent.com/22028539/118696564-caeeb480-b7e4-11eb-920a-55fefff4a19d.png)
    - Zoo dataset > Naive Bayes Alg > Data Table > Test and Score 80% training size > Data Info > Distribution > Confusion MAtrix.
    - Check CA > Save model > Load Model > Select Data set > Prediction
@@ -111,16 +111,24 @@ Each type of problem requires different techniques for its solution, therefore, 
 6. Decision tree alg with orange [zoo-naive-tree](machine-learning/zoo_orange_tree.ows)
    - Decision tree alg viszual representation:
         ![image](https://user-images.githubusercontent.com/22028539/118697927-35542480-b7e6-11eb-85b3-1f0b893d00ad.png)
-   - Orange model:
+   - Tree alg on orange:
         ![image](https://user-images.githubusercontent.com/22028539/118698886-4fdacd80-b7e7-11eb-9f51-7bbdd6eaa085.png)
    
 7. Learning by rule alg with orange [zoo-rule-learn](machine-learning/zoo_rule_learn.ows)
    - Rule learning representation:
        ![image](https://user-images.githubusercontent.com/22028539/118699571-0f2f8400-b7e8-11eb-9a3a-8daa3b1700e4.png)
-   - Orange model:
+   - rule learn on orange:
        ![image](https://user-images.githubusercontent.com/22028539/118699958-7e0cdd00-b7e8-11eb-93f5-b28f78aba1ba.png)
 
-   
+8. Instance learn - kNN [zoo-knn-learn](machine-learning/zoo_knn_learn.ows)
+   -kNN representation:
+        ![image](https://user-images.githubusercontent.com/22028539/118700923-89acd380-b7e9-11eb-9ebb-79d48b95e0a9.png)
+   -histore base connversion:
+        ![image](https://user-images.githubusercontent.com/22028539/118701090-b95bdb80-b7e9-11eb-9e9f-c3af53988dd5.png)
+   - kNN on orange:
+        ![image](https://user-images.githubusercontent.com/22028539/118701571-3d15c800-b7ea-11eb-9c9c-20d2f3a01805.png)
+
+      
 ### Regression
 ### Association
 ### Complementary topics
