@@ -103,13 +103,12 @@ Each type of problem requires different techniques for its solution, therefore, 
       ![image](https://user-images.githubusercontent.com/22028539/118693851-d5f41580-b7e1-11eb-9ee4-b0ecaa966632.png)
 
 5. Naive bayes with Orange
-   - 
-   - 
-   - 
-   - 
-   - 
-   - 
-
+   - Model created:
+        ![image](https://user-images.githubusercontent.com/22028539/118696564-caeeb480-b7e4-11eb-920a-55fefff4a19d.png)
+   - Zoo dataset > Naive Bayes Alg > Data Table > Test and Score 80% training size > Data Info > Distribution > Confusion MAtrix.
+   - Check CA > Save model > Load Model > Select Data set > Prediction
+   
+6.    
 ### Regression
 ### Association
 ### Complementary topics
