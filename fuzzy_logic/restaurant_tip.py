@@ -20,7 +20,6 @@ Rules
     If the service is good and the food quality is good then the tip will be high
 '''
 
-
 # Background and consequent
 qualidade = ctrl.Antecedent(np.arange(0, 11, 1), 'qualidade')
 servico = ctrl.Antecedent(np.arange(0, 11, 1), 'servico')
