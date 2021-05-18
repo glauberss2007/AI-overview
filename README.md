@@ -114,7 +114,13 @@ Each type of problem requires different techniques for its solution, therefore, 
    - Orange model:
         ![image](https://user-images.githubusercontent.com/22028539/118698886-4fdacd80-b7e7-11eb-9f51-7bbdd6eaa085.png)
    
-7.    
+7. Learning by rule alg with orange [zoo-rule-learn](machine-learning/zoo_rule_learn.ows)
+   - Rule learning representation:
+       ![image](https://user-images.githubusercontent.com/22028539/118699571-0f2f8400-b7e8-11eb-9a3a-8daa3b1700e4.png)
+   - Orange model:
+       ![image](https://user-images.githubusercontent.com/22028539/118699958-7e0cdd00-b7e8-11eb-93f5-b28f78aba1ba.png)
+
+   
 ### Regression
 ### Association
 ### Complementary topics
