@@ -76,6 +76,14 @@ Each type of problem requires different techniques for its solution, therefore, 
  
 
 ## Fuzzy logic
+1. Introduction
+2. Theory
+3. Implementations
+   - lib install
+   
+            pip install scikit-fuzzy
+
+
 ## Machine learning
 ## Classification
 ## Regression
