@@ -102,13 +102,19 @@ Each type of problem requires different techniques for its solution, therefore, 
 4. Naive Bayes algorithyns that is based on a probability table:
       ![image](https://user-images.githubusercontent.com/22028539/118693851-d5f41580-b7e1-11eb-9ee4-b0ecaa966632.png)
 
-5. Naive bayes with Orange
+5. Naive bayes alg with Orange [zoo-naive-bayes](machine-learning/zoo_orange_naive_bayes.ows)
    - Model created:
         ![image](https://user-images.githubusercontent.com/22028539/118696564-caeeb480-b7e4-11eb-920a-55fefff4a19d.png)
    - Zoo dataset > Naive Bayes Alg > Data Table > Test and Score 80% training size > Data Info > Distribution > Confusion MAtrix.
    - Check CA > Save model > Load Model > Select Data set > Prediction
    
-6.    
+6. Decision tree alg with orange [zoo-naive-tree](machine-learning/zoo_orange_tree.ows)
+   - Decision tree alg viszual representation:
+        ![image](https://user-images.githubusercontent.com/22028539/118697927-35542480-b7e6-11eb-85b3-1f0b893d00ad.png)
+   - Orange model:
+        ![image](https://user-images.githubusercontent.com/22028539/118698886-4fdacd80-b7e7-11eb-9f51-7bbdd6eaa085.png)
+   
+7.    
 ### Regression
 ### Association
 ### Complementary topics
