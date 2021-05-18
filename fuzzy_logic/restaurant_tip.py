@@ -29,9 +29,9 @@ gorjeta = ctrl.Consequent(np.arange(0, 21, 1), 'gorjeta')
 qualidade.automf(number=3, names=['ruim', 'boa', 'saborosa'])
 servico.automf(number=3, names=['ruim', 'aceitável', 'ótimo'])
 
-gorjeta['baixa'] = fuzz.trimf(gorjeta.universe, [0, 0, 8])
-gorjeta['media'] = fuzz.trimf(gorjeta.universe, [2, 10, 18])
-gorjeta['alta'] = fuzz.trimf(gorjeta.universe, [12, 20, 20])
+gorjeta['baixa'] = fuzz.sigmf(gorjeta.universe, 5, -1)
+gorjeta['media'] = fuzz.gaussmf(gorjeta.universe, 10, 3)
+gorjeta['alta'] = fuzz.pimf(gorjeta.universe, 10, 20, 20, 21)
 gorjeta.view()
 
 regra1 = ctrl.Rule(qualidade['ruim'] | servico['ruim'], gorjeta['baixa'])
