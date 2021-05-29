@@ -142,6 +142,16 @@ Each type of problem requires different techniques for its solution, therefore, 
 11. Benchmark comparison for animal success prediction [zoo-benchmark](machine-learning/zoo_benckmark.ows): 
         ![image](https://user-images.githubusercontent.com/22028539/120074329-aca17800-c072-11eb-9fc2-bc368e3576d1.png)
 
+12. K-Fold Cross Validation 
+        ![image](https://user-images.githubusercontent.com/22028539/120074526-9f38bd80-c073-11eb-8cf0-9dad7ff2458e.png)
+
+13. Cross validation using an wine database  [zoo-benchmark](machine-learning/wine-cross-validation.ows):
+        ![image](https://user-images.githubusercontent.com/22028539/120074940-a234ad80-c075-11eb-9548-3530d1337f2e.png)
+
+14. Image classification:
+  - Option > addons > orange image analyzer (restart orange)
+  - Site to download imagens dataset:
+  - Orange model:
       
 ### Regression
 ### Association
