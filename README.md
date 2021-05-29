@@ -128,6 +128,20 @@ Each type of problem requires different techniques for its solution, therefore, 
    - kNN on orange:
         ![image](https://user-images.githubusercontent.com/22028539/118701571-3d15c800-b7ea-11eb-9c9c-20d2f3a01805.png)
 
+9. Learn by support vector machine (SVM) [zoo-svm-learn](machine-learning/svm-orange-model.ows)
+  -SVM representation (max bord search):
+        ![image](https://user-images.githubusercontent.com/22028539/120073538-1cadff00-c06f-11eb-95d5-383e707ead93.png)
+  -SVM on orange:
+        ![image](https://user-images.githubusercontent.com/22028539/120073632-91813900-c06f-11eb-9716-f27af222b010.png)
+10. Logistic Regression [zoo-lr-learn](machine-learning/zoo_orange_lr.ows)
+  - LR representation:
+        ![image](https://user-images.githubusercontent.com/22028539/120073785-369c1180-c070-11eb-9553-9732a0a419f8.png)
+  - LR on Orange:
+        ![image](https://user-images.githubusercontent.com/22028539/120073872-95fa2180-c070-11eb-9fd0-d39f820e7466.png)
+
+11. Benchmark comparison for animal success prediction [zoo-benchmark](machine-learning/zoo_benckmark.ows): 
+        ![image](https://user-images.githubusercontent.com/22028539/120074329-aca17800-c072-11eb-9fc2-bc368e3576d1.png)
+
       
 ### Regression
 ### Association
