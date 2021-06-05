@@ -154,6 +154,18 @@ Each type of problem requires different techniques for its solution, therefore, 
   - Orange model:
       
 ### Regression
+  Used for number prediction, for example:
+  
+1. What is regression?
+        ![image](https://user-images.githubusercontent.com/22028539/120902487-1c85a480-c617-11eb-8db2-b89b3f29a3ca.png)
+2. Linear regression example for anual health plan cost based on age:
+        ![image](https://user-images.githubusercontent.com/22028539/120902622-bd745f80-c617-11eb-9eda-71bbcadc66b6.png)
+  
+3. Linear regression using Orange [car-price-prediction]():
+        ![image](https://user-images.githubusercontent.com/22028539/120902866-2ad4c000-c619-11eb-84e7-e04841761882.png)
+
+4. 
+   
 ### Association
 ### Complementary topics
 ### Data visualization and exploration
