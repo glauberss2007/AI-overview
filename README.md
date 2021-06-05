@@ -165,7 +165,15 @@ Each type of problem requires different techniques for its solution, therefore, 
 4. House price prediction [house-price-prediction](house-price-prediction.ows):
         ![image](https://user-images.githubusercontent.com/22028539/120903971-c49f6b80-c61f-11eb-830d-91f798af65e5.png)
 
-   
+### Grouping
+   Use examples:
+   ![image](https://user-images.githubusercontent.com/22028539/120904081-8eaeb700-c620-11eb-9d37-a7bbfbea6ee7.png)
+
+1. Grouping with K-Means:
+    1. Centroid AVG check
+    ![image](https://user-images.githubusercontent.com/22028539/120904146-f107b780-c620-11eb-97bf-d1eee593f0b2.png)
+
+
 ### Association
 ### Complementary topics
 ### Data visualization and exploration
