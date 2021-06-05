@@ -161,7 +161,7 @@ Each type of problem requires different techniques for its solution, therefore, 
 2. Linear regression example for anual health plan cost based on age:
         ![image](https://user-images.githubusercontent.com/22028539/120902622-bd745f80-c617-11eb-9eda-71bbcadc66b6.png)
   
-3. Linear regression using Orange [car-price-prediction]():
+3. Linear regression using Orange [car-price-prediction](car-price-prediction.pkcls):
         ![image](https://user-images.githubusercontent.com/22028539/120902866-2ad4c000-c619-11eb-84e7-e04841761882.png)
 
 4. 
