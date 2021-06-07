@@ -170,8 +170,12 @@ Each type of problem requires different techniques for its solution, therefore, 
    ![image](https://user-images.githubusercontent.com/22028539/120904081-8eaeb700-c620-11eb-9d37-a7bbfbea6ee7.png)
 
 1. Grouping with K-Means:
-    1. Centroid AVG check
-    ![image](https://user-images.githubusercontent.com/22028539/120904146-f107b780-c620-11eb-97bf-d1eee593f0b2.png)
+    - Centroid AVG check
+        ![image](https://user-images.githubusercontent.com/22028539/120904146-f107b780-c620-11eb-97bf-d1eee593f0b2.png)
+    - K-Means on origin [iris-kmeans-orange](iris-kmeans.ows):
+        ![image](https://user-images.githubusercontent.com/22028539/121002819-24eaf600-c763-11eb-92f8-81b73ef98787.png)
+2. Credit card spend group:
+    - 
 
 
 ### Association
