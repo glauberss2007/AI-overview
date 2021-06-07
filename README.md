@@ -193,7 +193,8 @@ Each type of problem requires different techniques for its solution, therefore, 
    ![image](https://user-images.githubusercontent.com/22028539/121012622-49000480-c76e-11eb-9339-3f3f26be8f9d.png)
 
 ### Complementary topics
-1. Pre process values and normalization
+1. Pre process values and normalization cmparison [pre-process-orange.ows](machine_learning/):
+    - ![image](https://user-images.githubusercontent.com/22028539/121042219-d7ce4a80-c789-11eb-89a6-e8dde56dde30.png)
 2. Pre process discret
 3. Dimension reductionwith PCA
 4. PLC grouping
