@@ -177,8 +177,9 @@ Each type of problem requires different techniques for its solution, therefore, 
 2. Credit card spend group [credit-card-kmeans-orange](machine-learning/market-association-orange.ows):
     - ![image](https://user-images.githubusercontent.com/22028539/121004525-2d443080-c765-11eb-840d-3b904c6c8374.png)
 
-3. Image Grouping [iris-kmeans-orange](machine-learning/iris-kmeans.ows):
-    - 
+3. Image Grouping [dogs-cats-association-in-orange](machine-learning/iris-kmeans.ows):
+    - ![image](https://user-images.githubusercontent.com/22028539/121012075-b8292900-c76d-11eb-9e96-fa9ecbcc60ba.png)
+
 
 ### Association
    Use examples:
@@ -188,6 +189,8 @@ Each type of problem requires different techniques for its solution, therefore, 
           ![image](https://user-images.githubusercontent.com/22028539/121007577-7944a480-c768-11eb-8620-dd2c0f233016.png)
       - Apriori in orange [market-association-orange](machine-learning/market-association-orange.ows):
           ![image](https://user-images.githubusercontent.com/22028539/121009263-53200400-c76a-11eb-83eb-3c4a2fe9dcf7.png)
+2. Adult econoomic association [market-association-orange](machine-learning/):
+   ![image](https://user-images.githubusercontent.com/22028539/121012622-49000480-c76e-11eb-9339-3f3f26be8f9d.png)
 
       
 ### Complementary topics
