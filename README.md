@@ -160,9 +160,9 @@ Each type of problem requires different techniques for its solution, therefore, 
         ![image](https://user-images.githubusercontent.com/22028539/120902487-1c85a480-c617-11eb-8db2-b89b3f29a3ca.png)
 2. Linear regression example for anual health plan cost based on age:
         ![image](https://user-images.githubusercontent.com/22028539/120902622-bd745f80-c617-11eb-9eda-71bbcadc66b6.png) 
-3. Linear regression using Orange [car-price-prediction](car-price-prediction.ows):
+3. Linear regression using Orange [car-price-prediction](machine-learning/car-price-prediction.ows):
         ![image](https://user-images.githubusercontent.com/22028539/120902866-2ad4c000-c619-11eb-84e7-e04841761882.png)
-4. House price prediction [house-price-prediction](house-price-prediction.ows):
+4. House price prediction [house-price-prediction](machine-learning/house-price-prediction.ows):
         ![image](https://user-images.githubusercontent.com/22028539/120903971-c49f6b80-c61f-11eb-830d-91f798af65e5.png)
 
 ### Grouping
@@ -172,9 +172,9 @@ Each type of problem requires different techniques for its solution, therefore, 
 1. Grouping with K-Means:
     - Centroid AVG check
         ![image](https://user-images.githubusercontent.com/22028539/120904146-f107b780-c620-11eb-97bf-d1eee593f0b2.png)
-    - K-Means on origin [iris-kmeans-orange](machine-learning/iris-kmeans.ows):
+    - K-Means on origin [iris-kmeans-orange:
         ![image](https://user-images.githubusercontent.com/22028539/121002819-24eaf600-c763-11eb-92f8-81b73ef98787.png)
-2. Credit card spend group:
+2. Credit card spend group [credit-card-kmeans-orange](machine-learning/market-association-orange.ows):
     - ![image](https://user-images.githubusercontent.com/22028539/121004525-2d443080-c765-11eb-840d-3b904c6c8374.png)
 
 3. Image Grouping [iris-kmeans-orange](machine-learning/iris-kmeans.ows):
