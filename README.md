@@ -209,8 +209,10 @@ Each type of problem requires different techniques for its solution, therefore, 
 5. Outliers detection [outliers-detection.ows](machine_learning/)
     - ![image](https://user-images.githubusercontent.com/22028539/121050834-4bbf2180-c78f-11eb-816f-f19fa5aff964.png)
 
-6. Temporal
-
+6. Temporal [temporal-01.ows](machine_learning/)
+    - Documentation link: 
+    - ![image](https://user-images.githubusercontent.com/22028539/121053171-73af8480-c791-11eb-8371-3eacdc3d1fe6.png)
+    
 ### Data visualization and exploration
 ### Reinforcement learning
 ## Artificial neural networks and deep learning
