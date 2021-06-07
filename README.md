@@ -225,7 +225,7 @@ Each type of problem requires different techniques for its solution, therefore, 
     - ![image](https://user-images.githubusercontent.com/22028539/121074464-46230500-c7aa-11eb-96b6-2a8a343d5d52.png)
     - ![image](https://user-images.githubusercontent.com/22028539/121075053-16c0c800-c7ab-11eb-91b5-22a9ed25f01d.png)
     - ![image](https://user-images.githubusercontent.com/22028539/121076603-fabe2600-c7ac-11eb-8a2d-121d9cdb7bfa.png)
-    - 
+    - ![image](https://user-images.githubusercontent.com/22028539/121077972-b59af380-c7ae-11eb-9338-75faffdc6ee5.png)
 
 ### Reinforcement learning
 ## Artificial neural networks and deep learning
