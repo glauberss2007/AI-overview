@@ -203,9 +203,11 @@ Each type of problem requires different techniques for its solution, therefore, 
 3. Dimension reduction with PCA [dimension-reduction.ows](machine_learning/):
     - ![image](https://user-images.githubusercontent.com/22028539/121049190-df8fee00-c78d-11eb-8f93-d50ea4418719.png)
 
+4. PLC grouping [pca-grouping.ows](machine_learning/)
+    - ![image](https://user-images.githubusercontent.com/22028539/121049849-78bf0480-c78e-11eb-81bb-b1b0a5f5cfe9.png)
 
-4. PLC grouping
 5. Outliers detection
+
 6. Temporal
 
 ### Data visualization and exploration
