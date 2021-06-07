@@ -217,6 +217,16 @@ Each type of problem requires different techniques for its solution, therefore, 
         ![image](https://user-images.githubusercontent.com/22028539/121057160-5d0b2c80-c795-11eb-9294-9c21d2c2aa71.png)
 
 ### Data visualization and exploration
+1. Orange basic graphs[exploring-graph](machine_learning/)
+    ![image](https://user-images.githubusercontent.com/22028539/121069664-1f61d000-c7a4-11eb-8d87-cfb577680949.png)
+
+2. Covid exploring data using Orange and Python [covid](machine_learning/)
+    - ![image](https://user-images.githubusercontent.com/22028539/121072596-cdbb4480-c7a7-11eb-8a5c-39f77b113220.png)
+    - ![image](https://user-images.githubusercontent.com/22028539/121074464-46230500-c7aa-11eb-96b6-2a8a343d5d52.png)
+    - ![image](https://user-images.githubusercontent.com/22028539/121075053-16c0c800-c7ab-11eb-91b5-22a9ed25f01d.png)
+    - ![image](https://user-images.githubusercontent.com/22028539/121076603-fabe2600-c7ac-11eb-8a2d-121d9cdb7bfa.png)
+    - 
+
 ### Reinforcement learning
 ## Artificial neural networks and deep learning
 ## Natural language processing
