@@ -102,25 +102,25 @@ Each type of problem requires different techniques for its solution, therefore, 
 4. Naive Bayes algorithyns that is based on a probability table:
       ![image](https://user-images.githubusercontent.com/22028539/118693851-d5f41580-b7e1-11eb-9ee4-b0ecaa966632.png)
 
-5. Naive bayes alg with Orange [zoo-naive-bayes](machine-learning/zoo_orange_naive_bayes.ows)
+5. Naive bayes alg with Orange [zoo-naive-bayes](machine_learning/zoo_orange_naive_bayes.ows)
    - naive bayes on orange:
         ![image](https://user-images.githubusercontent.com/22028539/118696564-caeeb480-b7e4-11eb-920a-55fefff4a19d.png)
    - Zoo dataset > Naive Bayes Alg > Data Table > Test and Score 80% training size > Data Info > Distribution > Confusion MAtrix.
    - Check CA > Save model > Load Model > Select Data set > Prediction
    
-6. Decision tree alg with orange [zoo-naive-tree](machine-learning/zoo_orange_tree.ows)
+6. Decision tree alg with orange [zoo-naive-tree](machine_learning/zoo_orange_tree.ows)
    - Decision tree alg viszual representation:
         ![image](https://user-images.githubusercontent.com/22028539/118697927-35542480-b7e6-11eb-85b3-1f0b893d00ad.png)
    - Tree alg on orange:
         ![image](https://user-images.githubusercontent.com/22028539/118698886-4fdacd80-b7e7-11eb-9f51-7bbdd6eaa085.png)
    
-7. Learning by rule alg with orange [zoo-rule-learn](machine-learning/zoo_rule_learn.ows)
+7. Learning by rule alg with orange [zoo-rule-learn](machine_learning/zoo_rule_learn.ows)
    - Rule learning representation:
        ![image](https://user-images.githubusercontent.com/22028539/118699571-0f2f8400-b7e8-11eb-9a3a-8daa3b1700e4.png)
    - rule learn on orange:
        ![image](https://user-images.githubusercontent.com/22028539/118699958-7e0cdd00-b7e8-11eb-93f5-b28f78aba1ba.png)
 
-8. Instance learn - kNN [zoo-knn-learn](machine-learning/zoo_knn_learn.ows)
+8. Instance learn - kNN [zoo-knn-learn](machine_learning/zoo_knn_learn.ows)
    -kNN representation:
         ![image](https://user-images.githubusercontent.com/22028539/118700923-89acd380-b7e9-11eb-9ebb-79d48b95e0a9.png)
    -histore base connversion:
@@ -128,24 +128,24 @@ Each type of problem requires different techniques for its solution, therefore, 
    - kNN on orange:
         ![image](https://user-images.githubusercontent.com/22028539/118701571-3d15c800-b7ea-11eb-9c9c-20d2f3a01805.png)
 
-9. Learn by support vector machine (SVM) [zoo-svm-learn](machine-learning/svm-orange-model.ows)
+9. Learn by support vector machine (SVM) [zoo-svm-learn](machine_learning/svm-orange-model.ows)
   -SVM representation (max bord search):
         ![image](https://user-images.githubusercontent.com/22028539/120073538-1cadff00-c06f-11eb-95d5-383e707ead93.png)
   -SVM on orange:
         ![image](https://user-images.githubusercontent.com/22028539/120073632-91813900-c06f-11eb-9716-f27af222b010.png)
-10. Logistic Regression [zoo-lr-learn](machine-learning/zoo_orange_lr.ows)
+10. Logistic Regression [zoo-lr-learn](machine_learning/zoo_orange_lr.ows)
   - LR representation:
         ![image](https://user-images.githubusercontent.com/22028539/120073785-369c1180-c070-11eb-9553-9732a0a419f8.png)
   - LR on Orange:
         ![image](https://user-images.githubusercontent.com/22028539/120073872-95fa2180-c070-11eb-9fd0-d39f820e7466.png)
 
-11. Benchmark comparison for animal success prediction [zoo-benchmark](machine-learning/zoo_benckmark.ows): 
+11. Benchmark comparison for animal success prediction [zoo-benchmark](machine_learning/zoo_benckmark.ows): 
         ![image](https://user-images.githubusercontent.com/22028539/120074329-aca17800-c072-11eb-9fc2-bc368e3576d1.png)
 
 12. K-Fold Cross Validation 
         ![image](https://user-images.githubusercontent.com/22028539/120074526-9f38bd80-c073-11eb-8cf0-9dad7ff2458e.png)
 
-13. Cross validation using an wine database  [zoo-benchmark](machine-learning/wine-cross-validation.ows):
+13. Cross validation using an wine database  [zoo-benchmark](machine_learning/wine-cross-validation.ows):
         ![image](https://user-images.githubusercontent.com/22028539/120074940-a234ad80-c075-11eb-9548-3530d1337f2e.png)
 
 14. Image classification:
@@ -160,9 +160,9 @@ Each type of problem requires different techniques for its solution, therefore, 
         ![image](https://user-images.githubusercontent.com/22028539/120902487-1c85a480-c617-11eb-8db2-b89b3f29a3ca.png)
 2. Linear regression example for anual health plan cost based on age:
         ![image](https://user-images.githubusercontent.com/22028539/120902622-bd745f80-c617-11eb-9eda-71bbcadc66b6.png) 
-3. Linear regression using Orange [car-price-prediction](machine-learning/car-price-prediction.ows):
+3. Linear regression using Orange [car-price-prediction](machine_learning/car-price-prediction.ows):
         ![image](https://user-images.githubusercontent.com/22028539/120902866-2ad4c000-c619-11eb-84e7-e04841761882.png)
-4. House price prediction [house-price-prediction](machine-learning/house-price-prediction.ows):
+4. House price prediction [house-price-prediction](machine_learning/house-price-prediction.ows):
         ![image](https://user-images.githubusercontent.com/22028539/120903971-c49f6b80-c61f-11eb-830d-91f798af65e5.png)
 
 ### Grouping
@@ -177,7 +177,7 @@ Each type of problem requires different techniques for its solution, therefore, 
 2. Credit card spend group [credit-card-kmeans-orange](machine-learning/market-association-orange.ows):
     - ![image](https://user-images.githubusercontent.com/22028539/121004525-2d443080-c765-11eb-840d-3b904c6c8374.png)
 
-3. Image Grouping [dogs-cats-association-in-orange](machine-learning/iris-kmeans.ows):
+3. Image Grouping [dogs-cats-association-in-orange](machine_learning/iris-kmeans.ows):
     - ![image](https://user-images.githubusercontent.com/22028539/121012075-b8292900-c76d-11eb-9e96-fa9ecbcc60ba.png)
 
 
@@ -187,9 +187,9 @@ Each type of problem requires different techniques for its solution, therefore, 
 1. Apriori algorithym:
       - Market layout association:
           ![image](https://user-images.githubusercontent.com/22028539/121007577-7944a480-c768-11eb-8620-dd2c0f233016.png)
-      - Apriori in orange [market-association-orange](machine-learning/market-association-orange.ows):
+      - Apriori in orange [market-association-orange](machine_learning/market-association-orange.ows):
           ![image](https://user-images.githubusercontent.com/22028539/121009263-53200400-c76a-11eb-83eb-3c4a2fe9dcf7.png)
-2. Adult econoomic association [market-association-orange](machine-learning/):
+2. Adult econoomic association [market-association-orange](machine_learning/):
    ![image](https://user-images.githubusercontent.com/22028539/121012622-49000480-c76e-11eb-9339-3f3f26be8f9d.png)
 
       
