@@ -206,7 +206,8 @@ Each type of problem requires different techniques for its solution, therefore, 
 4. PLC grouping [pca-grouping.ows](machine_learning/)
     - ![image](https://user-images.githubusercontent.com/22028539/121049849-78bf0480-c78e-11eb-81bb-b1b0a5f5cfe9.png)
 
-5. Outliers detection
+5. Outliers detection [outliers-detection.ows](machine_learning/)
+    - ![image](https://user-images.githubusercontent.com/22028539/121050834-4bbf2180-c78f-11eb-816f-f19fa5aff964.png)
 
 6. Temporal
 
