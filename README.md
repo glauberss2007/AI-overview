@@ -172,13 +172,24 @@ Each type of problem requires different techniques for its solution, therefore, 
 1. Grouping with K-Means:
     - Centroid AVG check
         ![image](https://user-images.githubusercontent.com/22028539/120904146-f107b780-c620-11eb-97bf-d1eee593f0b2.png)
-    - K-Means on origin [iris-kmeans-orange](iris-kmeans.ows):
+    - K-Means on origin [iris-kmeans-orange](machine-learning/iris-kmeans.ows):
         ![image](https://user-images.githubusercontent.com/22028539/121002819-24eaf600-c763-11eb-92f8-81b73ef98787.png)
 2. Credit card spend group:
+    - ![image](https://user-images.githubusercontent.com/22028539/121004525-2d443080-c765-11eb-840d-3b904c6c8374.png)
+
+3. Image Grouping [iris-kmeans-orange](machine-learning/iris-kmeans.ows):
     - 
 
-
 ### Association
+   Use examples:
+      ![image](https://user-images.githubusercontent.com/22028539/121006965-e277e800-c767-11eb-8c4e-21e7dd810ecc.png)
+1. Apriori algorithym:
+      - Market layout association:
+          ![image](https://user-images.githubusercontent.com/22028539/121007577-7944a480-c768-11eb-8620-dd2c0f233016.png)
+      - Apriori in orange [market-association-orange](machine-learning/market-association-orange.ows):
+          ![image](https://user-images.githubusercontent.com/22028539/121009263-53200400-c76a-11eb-83eb-3c4a2fe9dcf7.png)
+
+      
 ### Complementary topics
 ### Data visualization and exploration
 ### Reinforcement learning
