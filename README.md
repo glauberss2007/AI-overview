@@ -200,8 +200,9 @@ Each type of problem requires different techniques for its solution, therefore, 
     - Atrubits selection[atributs-selection-orange.ows](machine_learning/):
           ![image](https://user-images.githubusercontent.com/22028539/121048371-1f0a0a80-c78d-11eb-92e5-024da7d19a61.png)
 
-3. Dimension reductionwith PCA
-    
+3. Dimension reduction with PCA [dimension-reduction.ows](machine_learning/):
+    - ![image](https://user-images.githubusercontent.com/22028539/121049190-df8fee00-c78d-11eb-8f93-d50ea4418719.png)
+
 
 4. PLC grouping
 5. Outliers detection
