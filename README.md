@@ -192,8 +192,14 @@ Each type of problem requires different techniques for its solution, therefore, 
 2. Adult econoomic association [market-association-orange](machine_learning/):
    ![image](https://user-images.githubusercontent.com/22028539/121012622-49000480-c76e-11eb-9339-3f3f26be8f9d.png)
 
-      
 ### Complementary topics
+1. Pre process values and normalization
+2. Pre process discret
+3. Dimension reductionwith PCA
+4. PLC grouping
+5. Outliers detection
+6. Temporal
+
 ### Data visualization and exploration
 ### Reinforcement learning
 ## Artificial neural networks and deep learning
