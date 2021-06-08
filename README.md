@@ -245,8 +245,53 @@ Each type of problem requires different techniques for its solution, therefore, 
 
 3. Impplementation using python and gym (gym.openai.com/envs)           
 
+## Artificial neural networks and deep learning (Separeted ML Module)
+1. Introduction
 
-## Artificial neural networks and deep learning
+2. One-layer perceptron
+
+3. Multilayer networks - sum function and activation function
+
+4. Multilayer networks - error calculation
+
+5. Gradient descent
+
+6. Delta parameter calculation
+
+7. Adjustment of weights with backpropagation
+
+8. Bias, error, stochastic gradient descent and more parameters
+
+9. Neural networks with Orange
+
+10. Deep learning with TensorFlow 1
+
+11. Deep learning with TensorFlow 2
+
+12. Deep learning with TensorFlow 3
+
+13. Introduction to convolutional neural networks I
+
+14. Introduction to convolutional neural networks II
+
+15. Step 1 - convolution operator (introduction)
+
+16. Step 1 - convolution operator (calculation)
+
+17. Step 2 - pooling
+
+18. Step 3 - flattening
+
+19. Step 4 - dense neural network
+
+20. Convolutional neural networks with TensorFlow 1
+
+21. Convolutional neural networks with TensorFlow 2
+
+22. Solution for exercise
+
+23. Other types of neural networks
+
 ## Natural language processing
 ## Computer vision
 ## Multi-agent systems
