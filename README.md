@@ -228,6 +228,24 @@ Each type of problem requires different techniques for its solution, therefore, 
     - ![image](https://user-images.githubusercontent.com/22028539/121077972-b59af380-c7ae-11eb-9338-75faffdc6ee5.png)
 
 ### Reinforcement learning
+1. Theory:
+    ![image](https://user-images.githubusercontent.com/22028539/121103426-4e913500-c7d6-11eb-825e-ef2f501bbdf5.png)
+
+2. Inteligent taxi formulation:
+      - Set recompenses: 
+            ![image](https://user-images.githubusercontent.com/22028539/121103492-71234e00-c7d6-11eb-9b8a-3e1fd9a0abc1.png)
+      - Guide by Bellman formulation (v):
+            ![image](https://user-images.githubusercontent.com/22028539/121103789-032b5680-c7d7-11eb-8994-9b99892dedb1.png)
+      - Markov decision process to keep searching:
+            ![image](https://user-images.githubusercontent.com/22028539/121103891-38d03f80-c7d7-11eb-88d4-b9e3394a80fc.png)
+      - Q-Learning (Calcule V based on Q):
+            ![image](https://user-images.githubusercontent.com/22028539/121103977-6b7a3800-c7d7-11eb-9d15-63e52ee3140e.png)
+      - Temporal diference:
+            ![image](https://user-images.githubusercontent.com/22028539/121104035-8f3d7e00-c7d7-11eb-8aff-cc308f583b51.png)
+
+3. Impplementation using python and gym (gym.openai.com/envs)           
+
+
 ## Artificial neural networks and deep learning
 ## Natural language processing
 ## Computer vision
