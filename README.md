@@ -245,12 +245,23 @@ Each type of problem requires different techniques for its solution, therefore, 
 
 3. Impplementation using python and gym (gym.openai.com/envs)           
 
-## Artificial neural networks and deep learning (Separeted ML Module)
+## Artificial neural networks and deep learning (Separeted ML Section)
 1. Introduction
+      - Topic resume:
+            ![img_1.png](img_1.png)
 
 2. One-layer perceptron
+        - Artificial neural basic representation:
+                ![img_2.png](img_2.png)
+        - Example using AND logic (1/4 error chance):
+                ![img_3.png](img_3.png)
+        - Formulation to fix error:
+                ![img_4.png](img_4.png)
+        - Result using new weight formulation:
+                ![img_5.png](img_5.png)
 
 3. Multilayer networks - sum function and activation function
+        - 
 
 4. Multilayer networks - error calculation
 
