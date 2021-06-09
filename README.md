@@ -261,12 +261,24 @@ Each type of problem requires different techniques for its solution, therefore, 
                 ![img_5.png](img_5.png)
 
 3. Multilayer networks - sum function and activation function
-        - 
-
+        - Linear separated problem:
+                ![img_6.png](img_6.png)
+        - Non linear separated problem:
+                ![img_7.png](img_7.png)
+        - Multilayr to solve non linear separated problem:
+                ![img_8.png](img_8.png)   
+        - Sigmoid:
+                ![img_9.png](img_9.png)
+        - XoR operator for first registry:
+                ![img_10.png](img_10.png)
+        
 4. Multilayer networks - error calculation
+        - 49% error chance:
+                ![img_11.png](img_11.png)
+        - Found best Weight!
 
 5. Gradient descent
-
+        
 6. Delta parameter calculation
 
 7. Adjustment of weights with backpropagation
