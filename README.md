@@ -313,9 +313,6 @@ Each type of problem requires different techniques for its solution, therefore, 
                 ![img_27.png](img_27.png)
         - Stochastic gradient descent:
                 ![img_28.png](img_28.png)
-        - 
-                
-                
 
 9. Neural networks with Orange
 
