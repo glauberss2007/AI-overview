@@ -277,13 +277,45 @@ Each type of problem requires different techniques for its solution, therefore, 
                 ![img_11.png](img_11.png)
         - Found best Weight!
 
-5. Gradient descent
+5. Gradient descent:
+        - Weight adjust 
+                ![img_12.png](img_12.png)
+        - objective
+                ![img_13.png](img_13.png)
+        - Weight calculation:
+                ![img_14.png](img_14.png)
         
-6. Delta parameter calculation
+6. Delta (gradient direction) parameter calculation
+        - Flow
+                ![img_15.png](img_15.png)
+        - Delta (repeat for all registry):
+                ![img_17.png](img_17.png)
+        - Hide lyer delta:
+                ![img_18.png](img_18.png)
 
 7. Adjustment of weights with backpropagation
-
+        - Update weight equatio:
+                ![img_19.png](img_19.png)
+        - Update form outlayer to inputlayer:
+                ![img_20.png](img_20.png)
+                ![img_21.png](img_21.png)
+        - Update weight from inputlayer to hidelayer
+                ![img_22.png](img_22.png)
+                ![img_23.png](img_23.png)
+        - parameters:
+                ![img_29.png](img_29.png)
+   
 8. Bias, error, stochastic gradient descent and more parameters
+        - Adding bias unit:
+                ![img_24.png](img_24.png)
+        - Error calculation using MSE and RMSE:
+                ![img_26.png](img_26.png)
+                ![img_27.png](img_27.png)
+        - Stochastic gradient descent:
+                ![img_28.png](img_28.png)
+        - 
+                
+                
 
 9. Neural networks with Orange
 
